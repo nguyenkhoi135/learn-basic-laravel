@@ -1,2 +1,3 @@
 TypeORM vs Query Builder
 Tìm hiểu về lại Laravel (https://viblo.asia/u/Hoanghoi?page=2)
+Đọc thêm (https://viblo.asia/p/dang-nhap-voi-nhieu-tuy-chon-ten-dang-nhap-1VgZvpwO5Aw)
