@@ -59,3 +59,10 @@ Route::group([
     Route::delete('/{id}', 'App\Http\Controllers\ProductController@destroy');
 });
 
+
+Route::group([
+    'middleware' => 'auth:api',
+    'prefix' => 'classdemo'
+], function () {
+    Route::post('create', 'App\Http\Controllers\ClassdemoController@create');
+});
